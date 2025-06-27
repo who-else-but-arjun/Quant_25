@@ -1,8 +1,8 @@
-# Quantitative Finance Tasks - Complete Guide
+# Quantitative Finance Tasks
 
 This repository contains three advanced quantitative finance tasks implemented in Python, covering portfolio hedging, market making, and options pricing with local volatility models.
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Task 1: Portfolio Hedging with Risk Management](#task-1-portfolio-hedging-with-risk-management)
 2. [Task 2: Automated Market Making Strategy](#task-2-automated-market-making-strategy)
