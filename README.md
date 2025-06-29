@@ -1,4 +1,4 @@
-# Quantitative Finance Tasks
+# Quantitative Finance Tasks (GSIH 2025)
 
 This repository contains three advanced quantitative finance tasks implemented in Python, covering portfolio hedging, market making, and options pricing with local volatility models.
 
